@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" align="center" style="width: 100%" />
 </div>  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✌️Hi!+I'm+Alex)](https://git.io/typing-svg)
-### <div align="center">✌️ Hi! I'm Alex, a full-time Frontend developer 👨‍💻 working since 2024 🚀</div>  
+### <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✌️Hi!+I'm+Alex,+a+full-time+Frontend+developer👨‍💻+working+since+2024+🚀)](https://git.io/typing-svg) </div>  
+
   
 
 - 🔭 I'm currently working on BoatFix web application  
