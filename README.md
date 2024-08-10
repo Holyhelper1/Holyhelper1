@@ -67,7 +67,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="github.com/Holyhelper1" target="_blank">
+<a href="https://github.com/Holyhelper1" target="_blank">
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/AlexanderShulg" target="_blank">
