@@ -68,10 +68,16 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/Holyhelper1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img width="40" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/AlexanderShulg" target="_blank">
+<img  width="40" src="https://www.svgrepo.com/show/354443/telegram.svg"?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"  />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-shulgin-964b49267/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:shulgin.alexandera@gmail.com" target="_blank">
+<img width="40" src=https://www.svgrepo.com/show/217146/gmail.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
