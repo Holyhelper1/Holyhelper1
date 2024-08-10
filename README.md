@@ -73,7 +73,7 @@
 <a href="https://t.me/AlexanderShulg" target="_blank">
 <img  width="40" src="https://www.svgrepo.com/show/354443/telegram.svg"?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"  />
 </a>
-<a href="www.linkedin.com/in/alexander-shulgin-964b49267/" target="_blank">
+<a href="https://www.linkedin.com/in/alexander-shulgin-964b49267/" target="_blank">
 <img width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:shulgin.alexandera@gmail.com" target="_blank">
