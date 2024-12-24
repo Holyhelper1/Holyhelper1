@@ -7,10 +7,10 @@
 
   
 
-- 🔭 I'm currently working on BoatFix web application  
+- 🔭 I am currently working at Bravo Soft as Frontend developer, focusing on several projects.
   
 
-- 🌱 I’m currently learning React + TypeScript  
+- 🌱 I’m currently learning React + TypeScript + Redux 
   
 
 - 💡 Fun fact: I once built a personal website entirely using the < table> element. Don't judge me, it was a different time! 😅  
