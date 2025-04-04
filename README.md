@@ -8,6 +8,12 @@
   
 
 - 🔭 I am currently working at Bravo Soft as Frontend developer, focusing on several projects.
+For the last month finished 5 projects, check it out 👇:
+[BoatFix ](https://boatfixtomsk.web.app/)
+[Analytics ](https://holyhelper1.github.io/Analytics/)
+[CrossFit ](https://holyhelper1.github.io/CrossFit/)
+[Ruslana Cakes ](https://ruslana-cakes.web.app/)
+[DreamHouse ](https://holyhelper1.github.io/DreamHouse/)
   
 
 - 🌱 I’m currently learning React + TypeScript + Redux 
