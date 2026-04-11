@@ -1,74 +1,118 @@
-# Alexander Shulgin | Middle Frontend Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alexander%20Shulgin&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-**React / TypeScript / Redux Toolkit**
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Middle+Frontend+Developer;React+%7C+TypeScript+%7C+Redux+Toolkit" alt="Typing SVG" />
+</h3>
 
-📍 Nizhny Novgorod, Russia | 📧 shulgin.alexandera@gmail.com | [Telegram](https://t.me/AlexanderShulg)
-
----
-
-## 👨‍💻 About
-
-Frontend developer with a strong focus on building complex SPA and internal platforms. Currently working at **Bravo Soft** on B2B products involving custom integrations (Playwright, canvas) and performance optimization.
-
-I value clean architecture, type safety, and efficient team communication. Looking for opportunities to contribute to challenging React/TypeScript projects.
-
-**Core Competencies:**
-- React (Vite) + TypeScript
-- State Management: Redux Toolkit, RTK Query
-- UI Libraries: Material UI, Tailwind CSS, CSS Modules
-- Testing & Automation: Playwright (integration), basic Jest
-- Tooling: Vite, Git, Docker (basics)
+<p align="center">
+  <a href="https://t.me/AlexanderShulg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:shulgin.alexandera@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://holyhelper1.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alexander-shulgin-964b49267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💼 Featured Projects
+<br />
 
-### [iReserve — Hotel Booking SPA](https://github.com/Holyhelper1/iReserve)
-**Stack:** React, Redux Toolkit, TypeScript, React Router, CSS Modules
-- Full-stack simulation for a hotel booking platform.
-- Features: dynamic room calendar, advanced filters, user dashboard.
-- Deployed on VDS: [Live Demo](http://212.60.21.70/)
+## 👋 Обо мне
 
-### Bravo Soft — Commercial Experience (Private Repos)
-*No-Code Testing Platform (2024 – present)*
-- Integrated Playwright for browser automation within a custom React UI.
-- Implemented visual step builder using Canvas API.
-- Optimized build process with Vite (2x faster cold start).
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        <b>Frontend-разработчик с фокусом на React и TypeScript</b><br/><br/>
+        Строю сложные интерфейсы, которые приятно открывать и удобно поддерживать. 
+        В <b>Bravo Soft</b> отвечаю за архитектуру клиентской части B2B-продуктов, 
+        интегрирую нестандартные решения вроде Playwright и canvas.<br/><br/>
+        Люблю, когда код предсказуем, а дизайн — живой. 
+        Верю, что хороший фронтенд начинается с хорошей типизации.
+      </p>
+      <p>
+        📍 Нижний Новгород &nbsp;|&nbsp; 🌍 Английский B2
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holyhelper1&layout=compact&hide_border=true&bg_color=ffffff&title_color=2F81F7&text_color=333333" />
+    </td>
+  </tr>
+</table>
 
-*АЖУР — Inventory Management System*
-- Refactored entire frontend layer to align with new REST API contracts.
-- Developed dynamic reporting module with URL state persistence.
-- Mobile-adaptive UI for label printing workflows.
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | TypeScript, JavaScript (ES6+) |
-| **Frameworks** | React (Vite), Redux Toolkit, RTK Query |
-| **Styling** | Material UI, Tailwind CSS, CSS Modules, SASS |
-| **Testing** | Playwright |
-| **Tools** | Git, GitHub Actions, Docker (basics), Figma |
+<br />
 
 ---
 
-## 📫 Connect with me
+## 💼 Основные проекты
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Holyhelper1)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexanderShulg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-shulgin-964b49267/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shulgin.alexandera@gmail.com)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏨 iReserve</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+      <p align="center">SPA для бронирования отелей с календарём доступности, фильтрами и личным кабинетом. Развёрнут на VDS.</p>
+      <p align="center">
+        <a href="http://212.60.21.70/">🌐 Демо</a> · 
+        <a href="https://github.com/Holyhelper1/iReserve">📁 Репозиторий</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧪 No‑Code Testing (Bravo Soft)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canvas-FF6F00?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux" />
+        <img src="https://img.shields.io/badge/CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=white" />
+      </p>
+      <p align="center">Коммерческая платформа для создания E2E‑тестов без кода. Интеграция Playwright, визуальный конструктор шагов, ускорение сборки в 2 раза (Vite).</p>
+      <p align="center">
+        <span style="opacity:0.6;">🔒 Приватный репозиторий</span>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 🛠️ Технологический стек
 
-*If you want to keep stats, use the minimal version:*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,redux,vite,js,html,css,tailwind,materialui,git,docker,nodejs,figma&perline=7" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Holyhelper1&layout=compact&theme=default&hide_border=true)
+<details>
+  <summary>📋 Развернуть список</summary>
+  <br />
+  <ul>
+    <li><b>Языки:</b> TypeScript, JavaScript (ES6+)</li>
+    <li><b>Библиотеки и фреймворки:</b> React, Redux Toolkit, RTK Query, Vite</li>
+    <li><b>Стилизация:</b> Material UI, Tailwind CSS, CSS Modules, SASS</li>
+    <li><b>Тестирование и автоматизация:</b> Playwright, Jest (базово)</li>
+    <li><b>Инструменты:</b> Git, GitHub Actions, Docker (базово), Figma</li>
+  </ul>
+</details>
+
+<br />
 
 ---
 
-*Updated April 2026*
+## 📈 Немного статистики
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Holyhelper1&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2F81F7&icon_color=2F81F7&text_color=333333&hide=stars,issues" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Holyhelper1&hide_border=true&background=ffffff&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=999999" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
