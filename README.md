@@ -35,7 +35,12 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holyhelper1&layout=compact&hide_border=true&bg_color=ffffff&title_color=2F81F7&text_color=333333" />
+     <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-51.2%25-3178C6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-28.4%25-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/CSS-12.1%25-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/HTML-8.3%25-E34F26?style=flat-square&logo=html5" />
+</p>
     </td>
   </tr>
 </table>
