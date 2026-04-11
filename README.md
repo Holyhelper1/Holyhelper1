@@ -1,126 +1,74 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" align="center" style="width: 100%" />
-</div>  
-  
-### <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✌️Hi!+I'm+Alex,+Frontend+developer)](https://git.io/typing-svg) </div>  
-### <div align="center">working in frontend 👨‍💻 since 2023 🚀</div>
+# Alexander Shulgin | Middle Frontend Developer
 
-  
+**React / TypeScript / Redux Toolkit**
 
-- 🔭 I am currently working at Bravo Soft as Frontend developer, focusing on several projects.
-- For the last month finished 5 projects, check it out 👇:
-  - [BoatFix ](https://boatfixtomsk.web.app/)
-  - [Analytics ](https://holyhelper1.github.io/Analytics/)
-  - [CrossFit ](https://holyhelper1.github.io/CrossFit/)
-  - [Ruslana Cakes ](https://ruslana-cakes.web.app/)
-  - [DreamHouse ](https://holyhelper1.github.io/DreamHouse/)
-  
+📍 Nizhny Novgorod, Russia | 📧 shulgin.alexandera@gmail.com | [Telegram](https://t.me/AlexanderShulg)
 
-- 🌱 I’m currently learning React + TypeScript + Redux 
-  
+---
 
-- 💡 Fun fact: I once built a personal website entirely using the < table> element. Don't judge me, it was a different time! 😅  
-  
+## 👨‍💻 About
 
-- 🚀 Check out my portfolio: https://holyhelper1.github.io/Portfolio/  
-  
+Frontend developer with a strong focus on building complex SPA and internal platforms. Currently working at **Bravo Soft** on B2B products involving custom integrations (Playwright, canvas) and performance optimization.
 
-<br/>  
+I value clean architecture, type safety, and efficient team communication. Looking for opportunities to contribute to challenging React/TypeScript projects.
 
+**Core Competencies:**
+- React (Vite) + TypeScript
+- State Management: Redux Toolkit, RTK Query
+- UI Libraries: Material UI, Tailwind CSS, CSS Modules
+- Testing & Automation: Playwright (integration), basic Jest
+- Tooling: Vite, Git, Docker (basics)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 💼 Featured Projects
 
+### [iReserve — Hotel Booking SPA](https://github.com/Holyhelper1/iReserve)
+**Stack:** React, Redux Toolkit, TypeScript, React Router, CSS Modules
+- Full-stack simulation for a hotel booking platform.
+- Features: dynamic room calendar, advanced filters, user dashboard.
+- Deployed on VDS: [Live Demo](http://212.60.21.70/)
 
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+### Bravo Soft — Commercial Experience (Private Repos)
+*No-Code Testing Platform (2024 – present)*
+- Integrated Playwright for browser automation within a custom React UI.
+- Implemented visual step builder using Canvas API.
+- Optimized build process with Vite (2x faster cold start).
 
-</td><td valign="top" width="33%">
+*АЖУР — Inventory Management System*
+- Refactored entire frontend layer to align with new REST API contracts.
+- Developed dynamic reporting module with URL state persistence.
+- Mobile-adaptive UI for label printing workflows.
 
+---
 
+## 🛠️ Tech Stack
 
-### Backend  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | TypeScript, JavaScript (ES6+) |
+| **Frameworks** | React (Vite), Redux Toolkit, RTK Query |
+| **Styling** | Material UI, Tailwind CSS, CSS Modules, SASS |
+| **Testing** | Playwright |
+| **Tools** | Git, GitHub Actions, Docker (basics), Figma |
 
+---
 
+## 📫 Connect with me
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Holyhelper1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexanderShulg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-shulgin-964b49267/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shulgin.alexandera@gmail.com)
 
+---
 
-</td></tr></table>  
+## 📈 GitHub Stats (Optional)
 
-<br/>  
+*If you want to keep stats, use the minimal version:*
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Holyhelper1&layout=compact&theme=default&hide_border=true)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Holyhelper1" target="_blank">
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/AlexanderShulg" target="_blank">
-<img  width="40" src="https://www.svgrepo.com/show/354443/telegram.svg"?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"  />
-</a>
-<a href="https://www.linkedin.com/in/alexander-shulgin-964b49267/" target="_blank">
-<img width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:shulgin.alexandera@gmail.com" target="_blank">
-<img width="40" src=https://www.svgrepo.com/show/217146/gmail.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+---
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holyhelper1&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Holyhelper1&&style=flat-square" align="center" />
-</div>  
-  
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" align="center" height="200" width="700" />
-</div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+*Updated April 2026*
