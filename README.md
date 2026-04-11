@@ -111,10 +111,27 @@
 
 ## 📈 Немного статистики
 
-<div align="center">
-  <img height="150" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Holyhelper1&hide_border=true&background=ffffff&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=999999" alt="GitHub Streak" />
-</div>
+## 📊 Ключевые показатели
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Коммерческий_опыт-1.5_года-2F81F7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Публичных_репозиториев-15+-2F81F7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Английский-B2-2F81F7?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
 
 <br />
 
