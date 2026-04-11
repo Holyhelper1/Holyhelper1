@@ -111,7 +111,7 @@
 
 ## 📈 Немного статистики
 <div align="center"> 
- <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Holyhelper1&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2F81F7&icon_color=2F81F7&text_color=333333&hide=stars,issues" /> 
+ 
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Holyhelper1&hide_border=true&background=ffffff&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=999999" />
 </div>
 <br />
