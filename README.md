@@ -114,13 +114,16 @@
  
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Holyhelper1&hide_border=true&background=ffffff&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=999999" />
 </div>
-<br />
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Holyhelper1&&style=flat-square" align="center" />
 </div>
+
+<br />
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+
