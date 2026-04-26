@@ -118,3 +118,17 @@
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Holyhelper1&&style=flat-square" align="center" />
+</div>  
+  
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" align="center" height="200" width="700" />
+</div>  
+  
+
+<br/>  
