@@ -66,7 +66,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">✨ Lumiere Closet</h3>
+      <h3 align="center">✨ CUPSULA</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
